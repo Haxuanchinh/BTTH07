@@ -1,0 +1,38 @@
+.main{
+    margin: 10px;
+    padding: 20px ;
+    display: block;
+    background: #afaeae;
+    text-align: left;
+}
+#ip{
+    border: 1px solid black;
+    width: 100px;
+    height: 20px;
+
+
+
+}
+#name{
+    border: 1px solid black;
+    width: 300px;
+    height: 20px;
+
+}
+#zip{
+    border: 1px solid black;
+    width: 200px;
+    height: 20px;
+}
+#mail{
+    border: 1px solid black;
+    width: 200px;
+    height: 20px;
+
+}
+#about{
+    border: 1px solid black;
+    width: 500px;
+    height: 200px;
+
+}
